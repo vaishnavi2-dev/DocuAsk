@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DocuAsk.Api/DocuAsk.Api.csproj" />
+    <Project Path="src/DocuAsk.Application/DocuAsk.Application.csproj" />
+    <Project Path="src/DocuAsk.Domain/DocuAsk.Domain.csproj" />
+    <Project Path="src/DocuAsk.Infrastructure/DocuAsk.Infrastructure.csproj" />
+  </Folder>
+</Solution>

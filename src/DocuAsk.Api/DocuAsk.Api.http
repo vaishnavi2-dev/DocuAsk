@@ -1,0 +1,6 @@
+@DocuAsk.Api_HostAddress = http://localhost:5185
+
+GET {{DocuAsk.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
